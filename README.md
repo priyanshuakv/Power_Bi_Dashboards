@@ -4,7 +4,7 @@ This repository is a collection of Power BI dashboards I've developed, It tracks
 
 # Featured Dashboards
 
-Explore the dashbiard below. Each has its own dedicated README with more details on th build process and specific features. 
+Explore the dashboard below. Each has its own dedicated README with more details on th build process and specific features. 
 
 ## Data Jobs Dashboard (V1 - Comprehensive exploration)
 
